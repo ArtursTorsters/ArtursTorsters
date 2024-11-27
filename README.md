@@ -1,10 +1,17 @@
 # Hi there! 👋
 
-## My Activity
-[![GitLab](https://img.shields.io/badge/GitLab-Activity-FC6D26?logo=gitlab)](https://gitlab.esynergy.lv/atorstens)
-## Current Work Activity
-🏢 Software Engineer at [Company]
-🚀 Leading projects in:
-   - [Technology/Domain]
-   - [Type of projects]
-💻 Daily contributions to enterprise GitLab
+# Hi, I'm Arturs 👨‍💻
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtursTorsters&theme=dark)](https://git.io/streak-stats)
+
+🔭 Enterprise Developer working with:
+  React | Node.js | [Your tech stack]
+
+🌱 Building enterprise solutions for:
+  - Data Processing
+  - System Integration
+  - [Your domains]
+
+⚡ Weekly Coding Breakdown:
+  Backend: ██████████ 80%
+  Frontend: ████░░░░░░ 40%
