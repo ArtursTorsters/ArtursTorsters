@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-# Hi, I'm Arturs 👨‍💻
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtursTorsters&theme=dark)](https://git.io/streak-stats)
 
