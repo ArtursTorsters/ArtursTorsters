@@ -1,17 +1,23 @@
-# Hi there! 👋
+# Hi,
 
+Enterprise Developer | Full Stack Engineer
 
+🏢 Currently active on:
+- GitHub (Public Projects)
+- GitLab Enterprise (Private Projects)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtursTorsters&theme=dark)](https://git.io/streak-stats)
+## Activity Overview
+[Activity visualization will be displayed here]
 
-🔭 Enterprise Developer working with:
-  React | Node.js | [Your tech stack]
+⚡ Current Focus:
+- Frontend Development (50%)
+- System Architecture (30%)
+- Backend & DevOps (20%)
 
-🌱 Building enterprise solutions for:
-  - Data Processing
-  - System Integration
-  - [Your domains]
+🛠️ Tech Stack:
+- [List your main technologies]
 
-⚡ Weekly Coding Breakdown:
-  Backend: ██████████ 40%
-  Frontend: ████░░░░░░ 60%
+💼 Enterprise Contributions:
+- Active on private GitLab instance
+- Leading enterprise solutions
+- System integration projects
