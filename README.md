@@ -13,5 +13,5 @@
   - [Your domains]
 
 ⚡ Weekly Coding Breakdown:
-  Backend: ██████████ 80%
-  Frontend: ████░░░░░░ 40%
+  Backend: ██████████ 40%
+  Frontend: ████░░░░░░ 60%
