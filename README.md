@@ -1,15 +1,3 @@
-# Hi, I'm Arturs 👨‍💻
-<br/>
-
-<div align="center">
- 
- 🔭 I'm currently working on **Enterprise Solutions**
- 
- 🌱 I'm experienced with **Flutter Development**
-
- ⚡ Fun fact **Game of Thrones > House of the Dragon**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:your.email@gmail.com">
