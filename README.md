@@ -17,16 +17,7 @@
    <img src="https://skillicons.dev/icons?i=css,react,mysql,figma,tailwind" /><br>
 </div>
 
-<br/>
-<hr/>
 
-
-
-<hr/>
-
-
-
-<br/><br/>
 
 <hr/>
 <div align="center"> 
