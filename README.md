@@ -26,7 +26,6 @@
             <img src="https://img.shields.io/badge/GitLab-Enterprise_Developer-FC6D26?style=for-the-badge&logo=gitlab" />
         </a>
         <br/><br/>
-        <p>Active contributor at <a href="https://gitlab.esynergy.lv/atorstens" target="_blank">gitlab.esynergy.lv/atorstens</a></p>
     </div>
 </div>
 
