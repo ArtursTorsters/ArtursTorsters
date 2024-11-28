@@ -1,7 +1,5 @@
 # Hi, I'm Arturs 👨‍💻
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtursTorsters&theme=dark)](https://git.io/streak-stats)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArtursTorsters.ArtursTorsters" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arturs+Torsters!;" />
