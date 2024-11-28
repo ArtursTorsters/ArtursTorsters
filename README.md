@@ -1,12 +1,4 @@
 # Hi, I'm Arturs 👨‍💻
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arturs+Torsters!;" />
-</h1>
-
-<h3 align="center">A Software Developer from Latvia 🇱🇻</h3>
-
 <br/>
 
 <div align="center">
@@ -32,9 +24,10 @@
  
 <h2 align="center">Tech:</h2>
 <br/>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,gitlab" />
-    <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,php,typescript,javascript,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=css,react,mysql,figma" /><br>
 </div>
 
 <br/>
