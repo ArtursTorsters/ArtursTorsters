@@ -1,14 +1,13 @@
  
 
 
- <hr/>
  
 <h2 align="center">Tech:</h2>
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,php,typescript,javascript,sass" /><br>
-    <img src="https://skillicons.dev/icons?i=css,react,mysql,figma" /><br>
+     <img src="https://skillicons.dev/icons?i=docker,php,typescript,javascript,sass" /><br>
+   <img src="https://skillicons.dev/icons?i=css,react,mysql,figma,tailwind" /><br>
 </div>
 
 <br/>
@@ -18,7 +17,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=ArtursTorsters&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
