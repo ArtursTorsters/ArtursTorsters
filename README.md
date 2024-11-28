@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Tech:</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,gitlab" />
@@ -42,13 +42,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
@@ -65,26 +59,3 @@
 
 <hr/>
 
-# Hi, I'm Arturs 👨‍💻
-
-Enterprise Developer | Full Stack Engineer
-
-🏢 Currently active on:
-- GitHub (Public Projects)
-- GitLab Enterprise (Private Projects)
-
-## Activity Overview
-[Activity visualization will be displayed here]
-
-⚡ Current Focus:
-- Frontend Development (50%)
-- System Architecture (30%)
-- Backend & DevOps (20%)
-
-🛠️ Tech Stack:
-- [List your main technologies]
-
-💼 Enterprise Contributions:
-- Active on private GitLab instance
-- Leading enterprise solutions
-- System integration projects
