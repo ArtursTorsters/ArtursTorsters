@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=css,react,mysql,figma,tailwind" /><br>
     <br/>
     <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
-        <h3>🦊 GitLab Enterprise Activity</h3>
+        <h3>Work Gitlab</h3>
         <a href="https://gitlab.esynergy.lv/atorstens" target="_blank">
             <img src="https://img.shields.io/badge/GitLab-Enterprise_Developer-FC6D26?style=for-the-badge&logo=gitlab" />
         </a>
